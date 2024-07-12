@@ -9,7 +9,7 @@ const VideoTitle = ({ title, overView ,movieId}) => {
                 <button className="bg-white text-black p-1 px-2 md:px-3 lg:px-4 m-1 rounded-md text-sm md:text-base lg:text-xl hover:bg-opacity-70">
                     ▷ Play
                 </button>
-                <button className="bg-gray-500 text-white p-1 px-2 md:px-6 lg:px-8 m-1 rounded-md text-sm md:text-base lg:text-lg bg-opacity-50" >
+                <button className="bg-gray-200 text-white p-1 px-2 md:px-6 lg:px-8 m-1 rounded-md text-sm md:text-base lg:text-lg bg-opacity-50" >
                     More Info
                 </button>
             </div>
