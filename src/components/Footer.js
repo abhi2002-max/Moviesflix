@@ -22,12 +22,12 @@ const FooterPart = () => {
                         <img src="https://github.com/Krishan-Kant123/flicx/blob/main/src/assets/t.png?raw=true"></img>
                     </div>
                     <div className="flex flex-row items-center justify-center mb-8 gap-3 mt-8">
-                        <div><a href="https://www.linkedin.com/in/vivek-prajapati-82b09825b/"><FaLinkedin className="text-4xl hover:cursor-pointer  hover:text-fuchsia-600 text-navcol-300" /></a></div>
-                        <div><a href="https://www.instagram.com/25vivek68/"><FaTwitter className="text-4xl hover:cursor-pointer  hover:text-fuchsia-600 text-navcol-300" /></a> </div>
-                        <div><a href="https://www.instagram.com/25vivek68/"><FaFacebookF className="text-4xl hover:cursor-pointer hover:text-fuchsia-600 text-navcol-300" /></a></div>
-                        <div><a href="https://www.instagram.com/25vivek68/"><FaInstagram className="text-4xl hover:cursor-pointer hover:text-fuchsia-600 text-navcol-300" /></a></div>
-                        <div><a href="https://www.youtube.com/channel/UC2jsw-J1fTl2Trv0TOcXR-w"><FaYoutube className="text-4xl hover:cursor-pointer hover:text-fuchsia-600 text-navcol-300" /></a></div>
-                        <div><a href="https://www.linkedin.com/in/vivek-prajapati-82b09825b/"><FaLinkedin className="text-4xl hover:cursor-pointer  hover:text-fuchsia-600 text-navcol-300" /></a></div>
+                        <div><a href="https://www.linkedin.com/in/abhishek-chaturvedi-a57403284/"><FaLinkedin className="text-4xl hover:cursor-pointer  hover:text-fuchsia-600 text-navcol-300" /></a></div>
+                        <div><a href="https://x.com/chaturvedi_22/"><FaTwitter className="text-4xl hover:cursor-pointer  hover:text-fuchsia-600 text-navcol-300" /></a> </div>
+                        <div><a href="https://m.facebook.com/bravepandat.abhishek/"><FaFacebookF className="text-4xl hover:cursor-pointer hover:text-fuchsia-600 text-navcol-300" /></a></div>
+                        <div><a href="https://www.instagram.com/chaturvediji_11/"><FaInstagram className="text-4xl hover:cursor-pointer hover:text-fuchsia-600 text-navcol-300" /></a></div>
+                        <div><a href="https://youtube.com/@003abhishekchaturvedi2?si=9q8CG71fK8FP5X1V/"><FaYoutube className="text-4xl hover:cursor-pointer hover:text-fuchsia-600 text-navcol-300" /></a></div>
+                        <div><a href="https://www.linkedin.com/in/abhishek-chaturvedi-a57403284/"><FaLinkedin className="text-4xl hover:cursor-pointer  hover:text-fuchsia-600 text-navcol-300" /></a></div>
                     </div>
                     <div className="flex flex-col items-center  mb-8">
                         <div className="flex flex-col items-center ">
